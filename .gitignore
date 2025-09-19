@@ -1,0 +1,10 @@
+# artifacts / models / data lớn
+*.zip
+*.bin
+*.pt
+*.safetensors
+*.npy
+*.npz
+/model*/ 
+/Model save/
+/NLP_toxic/submission_*.csv
